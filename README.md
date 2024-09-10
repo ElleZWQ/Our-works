@@ -6,7 +6,7 @@ Welcome everyone to come and learn about our work.
 
 1. [Causality Detection with Matrix-based Transfer Entropy](https://www.sciencedirect.com/science/article/pii/S0020025522010830)
    - Published in Information Sciences (SCI, top journal, 中科院一区, 西交最具)
-   - [Code]{https://github.com/zwq2/MTE_causal}
+   - [Code](https://github.com/zwq2/MTE_causal.git)
    - Contributions: propose two novel matrix-based estimators for conditional transfer entropy and high-order transfer entropy.
      The former can detect both indirect and common causation, while the latter can detect synergistic effect. 
 2. [Jacobian Regularizer-based Neural Granger Causality](https://openreview.net/forum?id=FG5hjRBtpm)
