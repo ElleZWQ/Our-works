@@ -4,12 +4,12 @@ Welcome everyone to come and learn about our work.
 
 ## Causal discovery
 
-1. [Causality Detection with Matrix-based Transfer Entropy](https://www.sciencedirect.com/science/article/pii/S0020025522010830
+1. [Causality Detection with Matrix-based Transfer Entropy](https://www.sciencedirect.com/science/article/pii/S0020025522010830)
    - Published in Information Sciences (SCI, top journal, 中科院一区, 西交最具)
    - [Code]{https://github.com/zwq2/MTE_causal}
    - Contributions: propose two novel matrix-based estimators for conditional transfer entropy and high-order transfer entropy.
      The former can detect both indirect and common causation, while the latter can detect synergistic effect. 
-2. [Jacobian Regularizer-based Neural Granger Causality]{https://openreview.net/forum?id=FG5hjRBtpm}
+2. [Jacobian Regularizer-based Neural Granger Causality](https://openreview.net/forum?id=FG5hjRBtpm)
    - Published in ICML2024 (CCFA, top AI conference, 西交最具)
    - [Code](https://github.com/ElleZWQ/JRNGC.git)
    - Contributions: To our best knowledge, this is the first work to harness a single NN model with shared hidden layers for multivariate Granger causality analysis. Our method can not only obtain the summary Granger causality but also the full-time Granger causality. We evaluate our method on commonly used benchmark datasets with extensive experiments. Our method can
