@@ -30,7 +30,7 @@ classes. Second, the aligned branch obtains the domain invariant information by 
 
 2. [Soft Prompt Generation for Domain Generalization](https://arxiv.org/abs/2404.19286)
    - Accepted by ECCV2024 (CCFB, top Computer Vision Conference, 西交最具)
-   - [Code]{https://github.com/renytek13/Soft-Prompt-Generation.git}
+   - [Code](https://github.com/renytek13/Soft-Prompt-Generation.git)
    - Contributions: We propose a prompt-based domain generalization method from a generative perspective.
 
 ### Under Review
