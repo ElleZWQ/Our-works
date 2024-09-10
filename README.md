@@ -1,6 +1,6 @@
 # Our-works
 This repository includes our work on causal discovery and domain adaptation/domain generalization.
-Welcome everyone to come and learn about our work.
+Welcome everyone to come to join us and learn about our work (Especially for students conducting independent research.)
 
 ## Causal discovery
 
