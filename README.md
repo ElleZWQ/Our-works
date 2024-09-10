@@ -24,7 +24,7 @@ enhances the reliability and robustness of causal inference by evenly distributi
 
 1. [Prompt-based distribution alignment for unsupervised domain adaptation](https://ojs.aaai.org/index.php/AAAI/article/view/27830)
    - Published in AAAI2024 (CCFA, 西交最具)
-   - [Code]{https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment.git}
+   - [Code](https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment.git)
    - Contributions: We first experimentally verify the effectiveness of VLM on UDA downstream tasks. Then, based on this finding, we further propose a prompt-based distribution alignment (PDA) method to tune prompt to the target domain. The proposed PDA includes two training branches. First, the base branch ensures discrimination among different
 classes. Second, the aligned branch obtains the domain invariant information by image-guided feature tuning.
 
