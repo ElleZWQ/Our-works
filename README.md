@@ -35,10 +35,9 @@ classes. Second, the aligned branch obtains the domain invariant information by 
 
 ### Under Review
 We have two papers about domain generalization.
-   -  Not open yet.
-   - Code will be published soon. 
-   - [Shuanghao Bai](https://github.com/BaiShuanghao) reproduces the code for an interesting CVPR 2024 paper [PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization
-](https://arxiv.org/abs/2307.15199).
+   -  ICASSP Submitted. [PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization](https://arxiv.org/abs/2409.14163)
+      - [Code] [https://github.com/zhanghr2001/PromptTA.git].
+     
 
 Other work can be seen in [Google Scholar](https://scholar.google.com/citations?user=3Q_3PR8AAAAJ&hl=zh-CN).
   
