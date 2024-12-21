@@ -32,12 +32,12 @@ classes. Second, the aligned branch obtains the domain invariant information by 
    - Accepted by ECCV 2024 (CCF B, top Computer Vision Conference, 西交最具)
    - [Code](https://github.com/renytek13/Soft-Prompt-Generation.git)
    - Contributions: We propose a prompt-based domain generalization method from a generative perspective.
-
-### Under Review
-We have two papers about domain generalization.
-   -  ICASSP Submitted. [PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization](https://arxiv.org/abs/2409.14163)
+3. [PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization](https://arxiv.org/abs/2409.14163)
+   - Accepted by ICASSP 2025 (CCFB)
       - [Code](https://github.com/zhanghr2001/PromptTA.git).
-   - AAAI Submitted.
+      - Contribution: We propose an adapter-based domain generalization method that doesn't use the image as the training data.
+
+
      
 
 Other work can be seen in [Google Scholar](https://scholar.google.com/citations?user=3Q_3PR8AAAAJ&hl=zh-CN).
