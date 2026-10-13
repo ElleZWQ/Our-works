@@ -15,8 +15,8 @@ Welcome everyone to come to join us (Especially for students conducting independ
    - Contributions: To our best knowledge, this is the first work to harness a single NN model with shared hidden layers for multivariate Granger causality analysis. Our method can not only obtain the summary Granger causality but also the full-time Granger causality. We evaluate our method on commonly used benchmark datasets with extensive experiments. Our method can
 outperform state-of-the-art baselines and show an excellent ability to discover Granger causality, especially for sparse causality.
 3. [An Information-Theoretic Approach for Heterogeneous Differentiable Causal Discovery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4837242)
-   - Under review
-   - Code will be published in this GitHub account.
+   -  Published in Neural Networks (SCI,top journal, 西交最具)
+   - Code released in this GitHub account.
    - Contributions: To this end, we introduce a novel information-theoretic approach designed to enhance the robustness of differential causal discovery methods. Theoretically, we demonstrate that our approach leverages the structural identifiability characteristic inherent in existing causal discovery methods for linear systems. Furthermore, we explore how the MEE
 enhances the reliability and robustness of causal inference by evenly distributing prediction errors across diverse samples.
 
